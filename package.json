@@ -1,5 +1,5 @@
 {
-  "name": "@fred/ckeditor5-build-classic",
+  "name": "fred-ckeditor5-build-classic",
   "version": "16.0.0",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
